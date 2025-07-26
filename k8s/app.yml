@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: todo-app
-        image: abdullatifhabiba/todo-nodejs:latest
+        image: abdullatifhabiba/todo-nodejs:main-7034384
         ports:
         - containerPort: 4000
         env:
